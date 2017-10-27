@@ -32,8 +32,8 @@ const uint32_t g_ADigitalPinMap[] = {
   // Interupts
   25, // 5
   5,  // 6
-  2,  // 7
-  3,  // 8
+  3,  // 7
+  2,  // 8
 
   // SPI
   12, // 9
@@ -46,6 +46,6 @@ const uint32_t g_ADigitalPinMap[] = {
   27, // 14
 
   // RX, TX
-  6,  // 15
-  8   // 16
+  8,  // 15
+  6   // 16
 };

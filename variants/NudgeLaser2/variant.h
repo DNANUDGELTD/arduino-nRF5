@@ -85,8 +85,8 @@ static const uint8_t SCL = PIN_WIRE_SCL;
 // Interupts
 #define PIN_MPU_INTERRUPT       (5u)
 #define PIN_STAT                (6u)
-#define PIN_LASER_TRIGGER       (8u)
-#define PIN_AIM_TRIGGER         (7u)
+#define PIN_LASER_TRIGGER       (7u)
+#define PIN_AIM_TRIGGER         (8u)
 
 #ifdef __cplusplus
 }
