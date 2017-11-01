@@ -62,11 +62,12 @@ extern "C"
  */
 #define SPI_INTERFACES_COUNT 1
 
+#define PIN_SPI_CS              (9u)
 #define PIN_SPI_MISO            (10u)
 #define PIN_SPI_MOSI            (12u)
 #define PIN_SPI_SCK             (11u)
 
-static const uint8_t SS   = 9 ;
+static const uint8_t SS   = PIN_SPI_CS ;
 static const uint8_t MOSI = PIN_SPI_MOSI ;
 static const uint8_t MISO = PIN_SPI_MISO ;
 static const uint8_t SCK  = PIN_SPI_SCK ;
