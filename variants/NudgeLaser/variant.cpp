@@ -21,9 +21,9 @@
 
 const uint32_t g_ADigitalPinMap[] = {
   // LED
-  28, // 0
-  29, // 1
-  30, // 2
+  22, // 0
+  23, // 1
+  24, // 2
 
   // Buttons
   4,  // 3
@@ -31,9 +31,9 @@ const uint32_t g_ADigitalPinMap[] = {
 
   // Interupts
   25, // 5
-  0,  // 6
-  2,  // 7
-  3,  // 8
+  5,  // 6
+  3,  // 7
+  2,  // 8
 
   // SPI
   12, // 9
