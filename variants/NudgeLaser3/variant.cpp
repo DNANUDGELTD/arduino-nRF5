@@ -26,14 +26,14 @@ const uint32_t g_ADigitalPinMap[] = {
   5, // 2 R
 
   // Buttons
-  14,  // 3 
+  18,  // 3 
   7,  // 4
 
   // Interupts
-  18, // 5
+  14, // 5
   27,  // 6
   13,  // 7
-  27,  // 8
+  17,  // 8
 
   // SPI
   30, // 9
