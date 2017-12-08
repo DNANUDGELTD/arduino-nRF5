@@ -46,6 +46,6 @@ const uint32_t g_ADigitalPinMap[] = {
   2, // 14
 
   // RX, TX
-  19,  // 15
-  21   // 16
+  21,  // 15
+  19   // 16
 };
